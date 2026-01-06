@@ -1,0 +1,4 @@
+The above is a Q&A dialogue between a user and a problem-solving guidance model. 
+Treat the output of the guidance model as advisory context to solve the math problem: prefer using its techniques when they fit, but you may use alternative correct methods if they are more efficient or clearer. If you diverge from the advisory context, briefly explain why. Be concise and accurate.
+Present your reasoning and answer in the following format:
+<think> Content of Thinking</think><answer>[Final numeric result only]</answer>
